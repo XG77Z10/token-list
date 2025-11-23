@@ -1,0 +1,22 @@
+{
+  "chainId": 101,
+  "address": "DrvKdn1BPeM8gHDvR1zBFb7MYkQFic3gfa6GcjXQh3K9",
+  "symbol": "XWDC",
+  "name": "XWallet Digital Coin",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/XG77Z10/XWDC/refs/heads/main/logo3.png",
+  "tags": [
+    "community",
+    "meme",
+    "utility",
+    "solana",
+    "social",
+    "defi",
+    "xwallet"
+  ],
+  "extensions": {
+    "website": "https://xwdc.online",
+    "twitter": "https://x.com/XWDC133",
+    "telegram": "https://t.me/xwdc_public"
+  }
+}
